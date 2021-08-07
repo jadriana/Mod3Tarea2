@@ -1,0 +1,12 @@
+        package util;
+
+public class ConfigAPI {
+
+    public static final String CREATE_PROJECT=ConfigEnv.host+"/api/projects.json";
+    public static final String CREATE_ITEMS=ConfigEnv.host+"/api/items.json";
+    public static final String UPDATE_ITEMS=ConfigEnv.host+"/api/items/ID.json";
+    public static final String READ_ITEMS=ConfigEnv.host+"/api/items/ID.json";
+    public static final String DELETE_ITEMS=ConfigEnv.host+"/api/items/ID.json";
+
+
+}
