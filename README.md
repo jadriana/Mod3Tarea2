@@ -1,11 +1,9 @@
 # FRAMEWORK DE PRUEBAS
 ### Tarea 2 - Rest API
-## Descripcion
+## Descripción
 #### 1.- Se elaboró un plan de pruebas en base al presente proyecto
 #### 2.- Se automatizaron los siguientes casos de pruebas:
-1. Verificación de la creación de una tarea en la aplicación.
-2. Verificación de la actualización de una tarea en la aplicación.
-3. Verificación de la eliminación de una tarea en la aplicación.
+1. Creación, actualización, obtención y eliminado de un item en la aplicación.
 
 ## Objeto de pruebas:
 + http://todo.ly/
